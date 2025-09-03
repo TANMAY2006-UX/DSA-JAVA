@@ -30,7 +30,7 @@ This repository is meticulously organized to reflect my learning path. I am acti
 
 -   📁 **Arrays**: Solutions for a variety of array-based problems.
 -   📁 **Searching**: Implementations of various search algorithms.
--   📁 **Practice**: A general collection of problems and concepts I'm currently working on.
+-   📁 **Practice**: A general collection of problems and concepts.
 
 _This list will be updated as I explore new topics and create more folders._
 
@@ -50,7 +50,7 @@ I am always open to connecting with fellow tech enthusiasts, learners, and profe
   <a href="https://github.com/TANMAY2006-UX">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="your_linkedin_profile_url">
+  <a href="https://www.linkedin.com/in/tanmay-tajane-67289a352/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
