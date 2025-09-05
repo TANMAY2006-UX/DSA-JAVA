@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TanmayTajane/TanmayTajane/main/assets/your-banner-name.png" alt="Data Structures and Algorithms Banner" width="800" style="border-radius: 12px;"/>
+  <img src="https://raw.githubusercontent.com/TANMAY2006-UX/DSA-JAVA/main/images/Final%20DSA.png" alt="Data Structures and Algorithms Banner" width="800" style="border-radius: 12px;"/>
 </div>
 
 <div align="center">
