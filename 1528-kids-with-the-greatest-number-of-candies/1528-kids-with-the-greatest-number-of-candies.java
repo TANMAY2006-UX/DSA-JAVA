@@ -1,12 +1,12 @@
 class Solution {
    static List<Boolean> kidsWithCandies(int[] candies, int extraCandies) {
         ArrayList<Boolean> list = new ArrayList<>();
-        for (int i = 0; i < candies.length; i++) {
+        for (int candy : candies) {
             int f = 1;
-            for (int j = 0; j < candies.length; j++) {
-                if(candies[i] + extraCandies < candies[j]){
-                   f = 0;
-                   break;
+            for (int i : candies) {
+                if (candy + extraCandies < i) {
+                    f = 0;
+                    break;
                 }
             }
             if(f == 1){
