@@ -65,6 +65,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0268-missing-number) |
+| [0861-flipping-an-image](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0861-flipping-an-image) |
 | [1505-create-target-array-in-the-given-order](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1899-count-items-matching-a-rule](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/1899-count-items-matching-a-rule) |
@@ -84,6 +85,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0268-missing-number) |
+| [0861-flipping-an-image](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0861-flipping-an-image) |
 ## Sorting
 |  |
 | ------- |
@@ -91,9 +93,18 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 ## Simulation
 |  |
 | ------- |
+| [0861-flipping-an-image](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0861-flipping-an-image) |
 | [1505-create-target-array-in-the-given-order](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/1505-create-target-array-in-the-given-order) |
 ## String
 |  |
 | ------- |
 | [1899-count-items-matching-a-rule](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/1899-count-items-matching-a-rule) |
+## Two Pointers
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0861-flipping-an-image) |
+## Matrix
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0861-flipping-an-image) |
 <!---LeetCode Topics End-->
