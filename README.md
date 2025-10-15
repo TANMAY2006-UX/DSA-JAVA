@@ -68,6 +68,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | [0861-flipping-an-image](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0861-flipping-an-image) |
 | [1505-create-target-array-in-the-given-order](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1677-matrix-diagonal-sum](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/1677-matrix-diagonal-sum) |
 | [1899-count-items-matching-a-rule](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/1899-count-items-matching-a-rule) |
 ## Hash Table
 |  |
@@ -107,4 +108,5 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0861-flipping-an-image) |
+| [1677-matrix-diagonal-sum](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/1677-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
