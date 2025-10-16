@@ -67,6 +67,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | [0268-missing-number](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0268-missing-number) |
 | [0566-reshape-the-matrix](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0898-transpose-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1677-matrix-diagonal-sum](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/1677-matrix-diagonal-sum) |
@@ -98,6 +99,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0898-transpose-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/1505-create-target-array-in-the-given-order) |
 ## String
 |  |
@@ -112,6 +114,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/1677-matrix-diagonal-sum) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 <!---LeetCode Topics End-->
