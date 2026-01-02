@@ -64,6 +64,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0268-missing-number) |
 | [0566-reshape-the-matrix](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0861-flipping-an-image) |
@@ -77,6 +78,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0268-missing-number) |
 ## Math
 |  |
