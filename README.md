@@ -77,6 +77,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | [1833-find-the-highest-altitude](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/1833-find-the-highest-altitude) |
 | [1899-count-items-matching-a-rule](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/1899-count-items-matching-a-rule) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2560-house-robber-iv](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/2560-house-robber-iv) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,6 +92,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0268-missing-number) |
+| [2560-house-robber-iv](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/2560-house-robber-iv) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -133,4 +135,9 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0011-container-with-most-water) |
+| [2560-house-robber-iv](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/2560-house-robber-iv) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2560-house-robber-iv](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/2560-house-robber-iv) |
 <!---LeetCode Topics End-->
