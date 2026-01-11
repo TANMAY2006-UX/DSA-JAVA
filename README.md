@@ -82,6 +82,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0001-two-sum) |
+| [0205-isomorphic-strings](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0383-ransom-note) |
 ## Math
@@ -113,6 +114,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0383-ransom-note) |
 | [1899-count-items-matching-a-rule](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/1899-count-items-matching-a-rule) |
 ## Two Pointers
