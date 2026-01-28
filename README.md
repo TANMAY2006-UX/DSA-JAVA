@@ -66,6 +66,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | ------- |
 | [0001-two-sum](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0011-container-with-most-water) |
+| [0049-group-anagrams](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0268-missing-number) |
@@ -83,6 +84,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0219-contains-duplicate-ii) |
@@ -109,6 +111,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0268-missing-number) |
 ## Simulation
@@ -121,6 +124,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0290-word-pattern) |
