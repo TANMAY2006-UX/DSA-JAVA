@@ -66,6 +66,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | ------- |
 | [0001-two-sum](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0219-contains-duplicate-ii) |
@@ -111,6 +112,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0268-missing-number) |
@@ -135,6 +137,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0202-happy-number) |
