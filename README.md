@@ -74,6 +74,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | [0566-reshape-the-matrix](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0898-transpose-matrix) |
+| [0977-squares-of-a-sorted-array](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1505-create-target-array-in-the-given-order](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -118,6 +119,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | [0049-group-anagrams](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0977-squares-of-a-sorted-array) |
 ## Simulation
 |  |
 | ------- |
@@ -144,6 +146,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0202-happy-number) |
 | [0861-flipping-an-image](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0861-flipping-an-image) |
+| [0977-squares-of-a-sorted-array](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0977-squares-of-a-sorted-array) |
 ## Matrix
 |  |
 | ------- |
