@@ -138,6 +138,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | [0242-valid-anagram](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0383-ransom-note) |
+| [0838-push-dominoes](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0838-push-dominoes) |
 | [0942-di-string-match](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0942-di-string-match) |
 | [1899-count-items-matching-a-rule](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/1899-count-items-matching-a-rule) |
 ## Two Pointers
@@ -149,6 +150,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0283-move-zeroes) |
+| [0838-push-dominoes](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0838-push-dominoes) |
 | [0861-flipping-an-image](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0861-flipping-an-image) |
 | [0942-di-string-match](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0977-squares-of-a-sorted-array) |
@@ -174,6 +176,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 ## Dynamic Programming
 |  |
 | ------- |
+| [0838-push-dominoes](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0838-push-dominoes) |
 | [2560-house-robber-iv](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/2560-house-robber-iv) |
 ## Counting
 |  |
