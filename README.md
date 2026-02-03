@@ -70,6 +70,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | [0049-group-anagrams](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0283-move-zeroes) |
@@ -108,6 +109,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0268-missing-number) |
 | [2560-house-robber-iv](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/2560-house-robber-iv) |
 ## Bit Manipulation
@@ -168,6 +170,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [1833-find-the-highest-altitude](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/1833-find-the-highest-altitude) |
 ## Greedy
 |  |
@@ -188,5 +191,6 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
