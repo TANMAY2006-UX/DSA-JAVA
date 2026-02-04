@@ -68,6 +68,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | [0011-container-with-most-water](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0049-group-anagrams) |
+| [0078-subsets](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0209-minimum-size-subarray-sum) |
@@ -115,6 +116,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0268-missing-number) |
 | [0861-flipping-an-image](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0861-flipping-an-image) |
 ## Sorting
@@ -193,4 +195,8 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0219-contains-duplicate-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
