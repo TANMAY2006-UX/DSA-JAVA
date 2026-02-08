@@ -73,6 +73,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0283-move-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0566-reshape-the-matrix) |
@@ -173,6 +174,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0238-product-of-array-except-self) |
 | [1833-find-the-highest-altitude](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/1833-find-the-highest-altitude) |
 ## Greedy
 |  |
