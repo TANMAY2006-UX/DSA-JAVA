@@ -89,6 +89,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | [1899-count-items-matching-a-rule](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/1899-count-items-matching-a-rule) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2560-house-robber-iv](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/2560-house-robber-iv) |
+| [3719-longest-balanced-subarray-i](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,6 +103,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | [0290-word-pattern](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0383-ransom-note) |
 | [1796-second-largest-digit-in-a-string](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/1796-second-largest-digit-in-a-string) |
+| [3719-longest-balanced-subarray-i](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/3719-longest-balanced-subarray-i) |
 ## Math
 |  |
 | ------- |
@@ -178,6 +180,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | [0209-minimum-size-subarray-sum](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0238-product-of-array-except-self) |
 | [1833-find-the-highest-altitude](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/1833-find-the-highest-altitude) |
+| [3719-longest-balanced-subarray-i](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/3719-longest-balanced-subarray-i) |
 ## Greedy
 |  |
 | ------- |
@@ -203,4 +206,12 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 |  |
 | ------- |
 | [0078-subsets](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0078-subsets) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/3719-longest-balanced-subarray-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
