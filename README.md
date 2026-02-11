@@ -76,6 +76,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | [0238-product-of-array-except-self](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0283-move-zeroes) |
+| [0561-array-partition](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0898-transpose-matrix) |
@@ -131,6 +132,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | [0088-merge-sorted-array](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0268-missing-number) |
+| [0561-array-partition](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0977-squares-of-a-sorted-array) |
 ## Simulation
 |  |
@@ -185,6 +187,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0011-container-with-most-water) |
+| [0561-array-partition](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0561-array-partition) |
 | [0942-di-string-match](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0942-di-string-match) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [2560-house-robber-iv](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/2560-house-robber-iv) |
@@ -214,4 +217,8 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/3719-longest-balanced-subarray-i) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
