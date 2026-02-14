@@ -98,6 +98,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | [0001-two-sum](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0219-contains-duplicate-ii) |
@@ -164,6 +165,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | [0088-merge-sorted-array](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0283-move-zeroes) |
@@ -230,6 +232,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
