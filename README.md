@@ -162,6 +162,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | ------- |
 | [0011-container-with-most-water](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0141-linked-list-cycle) |
@@ -232,6 +233,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0206-reverse-linked-list) |
