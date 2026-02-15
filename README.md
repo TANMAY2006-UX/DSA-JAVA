@@ -133,6 +133,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | [0015-3sum](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0561-array-partition) |
@@ -167,6 +168,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | [0125-valid-palindrome](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0234-palindrome-linked-list) |
@@ -222,6 +224,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0148-sort-list) |
 | [3719-longest-balanced-subarray-i](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/3719-longest-balanced-subarray-i) |
 ## Segment Tree
 |  |
@@ -237,6 +240,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | [0019-remove-nth-node-from-end-of-list](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0328-odd-even-linked-list) |
@@ -251,4 +255,8 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0234-palindrome-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
