@@ -84,6 +84,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | [0942-di-string-match](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1505-create-target-array-in-the-given-order](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1677-matrix-diagonal-sum](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/1677-matrix-diagonal-sum) |
@@ -185,6 +186,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | [0566-reshape-the-matrix](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0898-transpose-matrix) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1677-matrix-diagonal-sum](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/1677-matrix-diagonal-sum) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Prefix Sum
@@ -207,6 +209,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 |  |
 | ------- |
 | [0838-push-dominoes](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0838-push-dominoes) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2560-house-robber-iv](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/2560-house-robber-iv) |
 ## Counting
 |  |
