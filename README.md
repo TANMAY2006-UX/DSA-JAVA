@@ -113,6 +113,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0268-missing-number) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
