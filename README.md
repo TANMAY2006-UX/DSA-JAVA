@@ -112,6 +112,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0268-missing-number) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -240,6 +241,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0142-linked-list-cycle-ii) |
@@ -252,6 +254,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0234-palindrome-linked-list) |
 ## Stack
