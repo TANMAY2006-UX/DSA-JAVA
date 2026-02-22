@@ -11,10 +11,8 @@
  */
 public class Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
-        ListNode temp1 = new ListNode();
-        ListNode temp2 = new ListNode();
-        temp1 = headA;
-        temp2 = headB;
+        ListNode temp1 = headA;
+        ListNode temp2 = headB;
         int i = 0;
         int j = 0;
         while(temp1 != null && temp2 != null){
