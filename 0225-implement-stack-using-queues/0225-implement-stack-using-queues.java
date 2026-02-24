@@ -27,7 +27,12 @@ class MyStack {
         while(q1.size() != 1){
             q2.add(q1.poll());
         }
-        return q1.peek();
+        int top = q1.peek();
+        q2.add(q1.poll());
+        temp = q1;
+        q1 = q2;
+        q2 = temp;
+        return top;
     }
     
     public boolean empty() {
