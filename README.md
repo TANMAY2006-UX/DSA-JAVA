@@ -277,9 +277,18 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0143-reorder-list) |
+| [0225-implement-stack-using-queues](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0234-palindrome-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0148-sort-list) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
