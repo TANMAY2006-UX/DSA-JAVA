@@ -9,24 +9,24 @@ class MyStack {
     }
     
     public void push(int x) {
-        q2.add(x);
-        while(q1.size() != 0){
-            q2.add(q1.poll());
-        }
-        temp = q1;
-        q1 = q2;
-        q2 = temp;
-
+        q1.add(x);
     }
     
     public int pop() {
-        if(empty()) return -1;
-        else{
-            return q1.remove();
-    }
+        while(q1.size() != 1){
+            q2.add(q1.poll());
+        }
+        int rem = q1.poll();
+        temp = q1;
+        q1 = q2;
+        q2 = temp;
+        return rem;
     }
     
     public int top() {
+        while(q1.size() != 1){
+            q2.add(q1.poll());
+        }
         return q1.peek();
     }
     
