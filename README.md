@@ -278,6 +278,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | ------- |
 | [0143-reorder-list](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0234-palindrome-linked-list) |
 ## Merge Sort
 |  |
@@ -287,8 +288,10 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
