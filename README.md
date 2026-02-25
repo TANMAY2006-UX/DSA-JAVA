@@ -153,6 +153,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0205-isomorphic-strings) |
@@ -276,6 +277,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0232-implement-queue-using-stacks) |
