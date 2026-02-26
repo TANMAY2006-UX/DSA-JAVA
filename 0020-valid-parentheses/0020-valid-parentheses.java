@@ -5,13 +5,16 @@ class Solution {
         if(len == 1) return false;
         int count = 0;
         while (count < len){
-            if(s.charAt(count) == '[' || s.charAt(count) == '{' || s.charAt(count) == '('){
-                st.push(s.charAt(count));
-            }
+            if(s.charAt(count) == '[')
+                st.push(']');
+            else if(s.charAt(count) == '{')
+                st.push('}');
+            else if(s.charAt(count) == '(')
+                st.push(')');
             else{
                 char c = s.charAt(count);
                 if(count != 0 && st.size() != 0){
-                    if(st.peek() == '[' && c == ']' || st.peek() == '{' && c == '}' || st.peek() == '(' && c == ')'){
+                    if(st.peek() == c){
                         st.pop();
                     }
                     else
@@ -22,9 +25,6 @@ class Solution {
             }
             count++;
         }
-        if (st.size() == 0)
-            return true;
-        else
-            return false;
+        return st.isEmpty();
     }
 }
