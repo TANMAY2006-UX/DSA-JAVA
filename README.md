@@ -70,6 +70,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | [0049-group-anagrams](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0088-merge-sorted-array) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0219-contains-duplicate-ii) |
@@ -116,6 +117,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | ------- |
 | [0002-add-two-numbers](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0009-palindrome-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0268-missing-number) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -279,6 +281,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | ------- |
 | [0020-valid-parentheses](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0232-implement-queue-using-stacks) |
