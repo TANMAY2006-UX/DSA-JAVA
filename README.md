@@ -78,6 +78,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | [0268-missing-number](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0334-increasing-triplet-subsequence) |
+| [0496-next-greater-element-i](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0861-flipping-an-image) |
@@ -110,6 +111,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | [0268-missing-number](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0383-ransom-note) |
+| [0496-next-greater-element-i](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0496-next-greater-element-i) |
 | [1796-second-largest-digit-in-a-string](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/1796-second-largest-digit-in-a-string) |
 | [3719-longest-balanced-subarray-i](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/3719-longest-balanced-subarray-i) |
 ## Math
@@ -286,6 +288,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | [0225-implement-stack-using-queues](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0496-next-greater-element-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -301,4 +304,8 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
