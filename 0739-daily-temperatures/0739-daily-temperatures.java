@@ -4,8 +4,7 @@ class Solution {
         int n = temperatures.length;
         int[] arr = new int[n];
 
-        int i = n - 1;
-        while(i >= 0){
+        for(int i = n - 1 ; i >= 0 ; i--){
                 while(!s.isEmpty() && temperatures[i] >= temperatures[s.peek()]){
                     s.pop();
                 }
@@ -14,7 +13,6 @@ class Solution {
                 else
                     arr[i] = s.peek() - i;
                 s.push(i);
-                i--;
                 }
                 return arr;
             }
