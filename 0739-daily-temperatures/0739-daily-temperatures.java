@@ -6,11 +6,6 @@ class Solution {
 
         int i = n - 1;
         while(i >= 0){
-            if(s.isEmpty()){
-                s.push(i);
-                i--;
-            }
-            else{
                 while(!s.isEmpty() && temperatures[i] >= temperatures[s.peek()]){
                     s.pop();
                 }
@@ -21,7 +16,6 @@ class Solution {
                 s.push(i);
                 i--;
                 }
+                return arr;
             }
-            return arr;
         }
-    }
