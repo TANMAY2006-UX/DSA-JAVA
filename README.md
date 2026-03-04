@@ -81,6 +81,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | [0496-next-greater-element-i](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0566-reshape-the-matrix) |
+| [0739-daily-temperatures](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0739-daily-temperatures) |
 | [0861-flipping-an-image](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0898-transpose-matrix) |
 | [0942-di-string-match](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0942-di-string-match) |
@@ -289,6 +290,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | [0232-implement-queue-using-stacks](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0739-daily-temperatures) |
 ## Merge Sort
 |  |
 | ------- |
@@ -308,4 +310,5 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
