@@ -3,7 +3,8 @@ class Solution {
         Stack<Integer> s = new Stack<>();
         int[] arr = new int[nums.length];
         int temp = 2 * nums.length;
-
+        Arrays.fill(arr, -1);
+        
         int j = 1;
         if(s.isEmpty() && nums.length != 0){
             s.push(0);
@@ -16,10 +17,6 @@ class Solution {
             if(j < nums.length)
                 s.push(j);
             j++;
-        }
-        while(!s.isEmpty()){
-            arr[s.peek()] = -1;
-            s.pop();
         }
         return arr;
     }
