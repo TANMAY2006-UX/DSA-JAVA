@@ -163,6 +163,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | ------- |
 | [0020-valid-parentheses](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0242-valid-anagram) |
@@ -286,6 +287,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0155-min-stack) |
