@@ -1,6 +1,5 @@
 class Solution {
     public static String simplifyPath(String path) {
-        String rev = "";
         Stack<String> s = new Stack<>();
 
             String[] arr =  path.split("/");
@@ -22,7 +21,7 @@ class Solution {
                 ans = "/" + s.peek() + ans;
                 s.pop();
             }
-        if(ans == ""){
+        if(ans.equals("")){
             return "/";
         }
         return ans;
