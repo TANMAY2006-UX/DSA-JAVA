@@ -82,6 +82,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | [0503-next-greater-element-ii](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0566-reshape-the-matrix) |
+| [0682-baseball-game](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0739-daily-temperatures) |
 | [0861-flipping-an-image](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0861-flipping-an-image) |
@@ -154,6 +155,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0566-reshape-the-matrix) |
+| [0682-baseball-game](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0735-asteroid-collision) |
 | [0861-flipping-an-image](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0898-transpose-matrix) |
@@ -296,6 +298,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | [0234-palindrome-linked-list](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0739-daily-temperatures) |
 ## Merge Sort
