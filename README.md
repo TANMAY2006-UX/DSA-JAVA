@@ -173,6 +173,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | [0383-ransom-note](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0383-ransom-note) |
 | [0838-push-dominoes](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0838-push-dominoes) |
 | [0942-di-string-match](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0942-di-string-match) |
+| [1021-remove-outermost-parentheses](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/1021-remove-outermost-parentheses) |
 | [1796-second-largest-digit-in-a-string](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/1796-second-largest-digit-in-a-string) |
 | [1899-count-items-matching-a-rule](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/1899-count-items-matching-a-rule) |
 ## Two Pointers
@@ -301,6 +302,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | [0682-baseball-game](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0739-daily-temperatures) |
+| [1021-remove-outermost-parentheses](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/1021-remove-outermost-parentheses) |
 ## Merge Sort
 |  |
 | ------- |
