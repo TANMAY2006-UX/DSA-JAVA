@@ -8,7 +8,7 @@ class Solution {
             char ch = s.charAt(i);
             if(ch == '('){
                 if(!st.isEmpty()){
-                    ans += st.peek();
+                    ans += ch;
                 }
                 st.push("(");
             }
