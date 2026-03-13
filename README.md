@@ -99,6 +99,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2560-house-robber-iv](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/2560-house-robber-iv) |
 | [3719-longest-balanced-subarray-i](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/3719-longest-balanced-subarray-i) |
+| [3861-minimum-capacity-box](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/3861-minimum-capacity-box) |
 ## Hash Table
 |  |
 | ------- |
