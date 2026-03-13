@@ -170,6 +170,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | [0205-isomorphic-strings](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0290-word-pattern) |
+| [0344-reverse-string](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0383-ransom-note) |
 | [0838-push-dominoes](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0838-push-dominoes) |
 | [0942-di-string-match](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0942-di-string-match) |
@@ -194,6 +195,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | [0202-happy-number](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0344-reverse-string) |
 | [0838-push-dominoes](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0838-push-dominoes) |
 | [0861-flipping-an-image](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0861-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0876-middle-of-the-linked-list) |
