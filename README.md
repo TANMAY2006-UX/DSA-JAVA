@@ -168,6 +168,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | [0049-group-anagrams](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0290-word-pattern) |
@@ -191,6 +192,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | [0142-linked-list-cycle-ii](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0202-happy-number) |
