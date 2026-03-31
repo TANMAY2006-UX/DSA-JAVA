@@ -174,6 +174,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | [0290-word-pattern](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0383-ransom-note) |
+| [0402-remove-k-digits](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0402-remove-k-digits) |
 | [0838-push-dominoes](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0838-push-dominoes) |
 | [0942-di-string-match](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0942-di-string-match) |
 | [1021-remove-outermost-parentheses](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/1021-remove-outermost-parentheses) |
@@ -226,6 +227,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | ------- |
 | [0011-container-with-most-water](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0334-increasing-triplet-subsequence) |
+| [0402-remove-k-digits](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0402-remove-k-digits) |
 | [0561-array-partition](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0561-array-partition) |
 | [0942-di-string-match](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0942-di-string-match) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -302,6 +304,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | [0225-implement-stack-using-queues](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0682-baseball-game) |
@@ -326,6 +329,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0739-daily-temperatures) |
