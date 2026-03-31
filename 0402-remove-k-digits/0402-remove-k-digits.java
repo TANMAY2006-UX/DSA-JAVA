@@ -16,12 +16,7 @@ class Solution {
             s.push(digit);
             i++;
         }
-        while(i < n){
-            char c = digits[i];
-            int digit = c - '0';
-            s.push(digit);
-            i++;
-        }
+        
         while(count != k){
             s.pop();
             count++;
