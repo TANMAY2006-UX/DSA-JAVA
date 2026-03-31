@@ -16,24 +16,19 @@ class Solution {
             s.push(digit);
             i++;
         }
-        
         while(count != k){
             s.pop();
             count++;
         }
-
-        ArrayList<Integer> list = new ArrayList<>();
+        StringBuilder sb = new StringBuilder();
         while(!s.isEmpty()){
-            list.add(s.peek());
+            String number = String.valueOf(s.peek());
+            sb.append(number);
             s.pop();
         }
-        Collections.reverse(list);
-        while(!list.isEmpty() && list.get(0) == 0){
-            list.remove(0);
-        }
-        StringBuilder sb = new StringBuilder();
-        for(int number : list){
-            sb.append(number);
+        sb.reverse();
+        while(!sb.isEmpty() && sb.charAt(0) == '0'){
+            sb.deleteCharAt(0);
         }
         if (sb.isEmpty())
             return "0";
