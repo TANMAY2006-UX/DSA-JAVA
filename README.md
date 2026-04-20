@@ -100,6 +100,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | [1833-find-the-highest-altitude](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/1833-find-the-highest-altitude) |
 | [1899-count-items-matching-a-rule](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/1899-count-items-matching-a-rule) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2560-house-robber-iv](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/2560-house-robber-iv) |
 | [3719-longest-balanced-subarray-i](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/3719-longest-balanced-subarray-i) |
 | [3861-minimum-capacity-box](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/3861-minimum-capacity-box) |
@@ -237,6 +238,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | [0561-array-partition](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0561-array-partition) |
 | [0942-di-string-match](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0942-di-string-match) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2560-house-robber-iv](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/2560-house-robber-iv) |
 ## Dynamic Programming
 |  |
