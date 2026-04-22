@@ -75,6 +75,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | [0150-evaluate-reverse-polish-notation](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0238-product-of-array-except-self) |
@@ -130,6 +131,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | [0002-add-two-numbers](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0268-missing-number) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -202,6 +204,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | [0151-reverse-words-in-a-string](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0283-move-zeroes) |
