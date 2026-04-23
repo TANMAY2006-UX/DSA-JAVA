@@ -102,6 +102,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | [1899-count-items-matching-a-rule](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/1899-count-items-matching-a-rule) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2560-house-robber-iv](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/2560-house-robber-iv) |
 | [3719-longest-balanced-subarray-i](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/3719-longest-balanced-subarray-i) |
 | [3861-minimum-capacity-box](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/3861-minimum-capacity-box) |
@@ -188,6 +189,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | [1021-remove-outermost-parentheses](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/1021-remove-outermost-parentheses) |
 | [1796-second-largest-digit-in-a-string](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/1796-second-largest-digit-in-a-string) |
 | [1899-count-items-matching-a-rule](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/1899-count-items-matching-a-rule) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Two Pointers
 |  |
 | ------- |
@@ -348,4 +350,8 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | [0496-next-greater-element-i](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0739-daily-temperatures) |
+## Trie
+|  |
+| ------- |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/2452-words-within-two-edits-of-dictionary) |
 <!---LeetCode Topics End-->
