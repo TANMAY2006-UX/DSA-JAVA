@@ -190,6 +190,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | [1796-second-largest-digit-in-a-string](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/1796-second-largest-digit-in-a-string) |
 | [1899-count-items-matching-a-rule](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/1899-count-items-matching-a-rule) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2833-furthest-point-from-origin](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/2833-furthest-point-from-origin) |
 ## Two Pointers
 |  |
 | ------- |
@@ -258,6 +259,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | ------- |
 | [0169-majority-element](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0383-ransom-note) |
+| [2833-furthest-point-from-origin](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/2833-furthest-point-from-origin) |
 ## Sliding Window
 |  |
 | ------- |
