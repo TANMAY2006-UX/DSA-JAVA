@@ -68,6 +68,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | [0011-container-with-most-water](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0027-remove-element) |
+| [0045-jump-game-ii](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0078-subsets) |
@@ -241,6 +242,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0334-increasing-triplet-subsequence) |
@@ -253,6 +255,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
