@@ -24,16 +24,6 @@ class Solution {
             i = j;
             //j++;
         }
-        while(p < nums.length){
-            nums[p] = Integer.MAX_VALUE;
-            p++;
-        }
-        c = 0;
-        for(int k = 0 ; k < nums.length ; k++){
-            if(nums[k] != Integer.MAX_VALUE){
-                c++;
-            }
-        }
-        return c;
+        return p;
     }
 }
