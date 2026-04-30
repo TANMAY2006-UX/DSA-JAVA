@@ -369,4 +369,8 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/2452-words-within-two-edits-of-dictionary) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
