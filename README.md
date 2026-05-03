@@ -116,6 +116,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0141-linked-list-cycle) |
@@ -137,6 +138,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | ------- |
 | [0002-add-two-numbers](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0202-happy-number) |
@@ -180,6 +182,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0071-simplify-path) |
