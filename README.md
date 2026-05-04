@@ -69,6 +69,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | [0015-3sum](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0078-subsets) |
@@ -141,6 +142,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | [0009-palindrome-number](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0202-happy-number) |
@@ -236,6 +238,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0048-rotate-image) |
 | [0566-reshape-the-matrix](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0898-transpose-matrix) |
