@@ -3,33 +3,33 @@ class Solution {
         if (numRows == 1) return s;
         int i = 0;
         int j = 0;
-        Character[][] matrix = new Character[numRows][s.length()];
-        int k = 0;
-        while(k < s.length()) {
-            while (i < s.length() && i < numRows && k < s.length()) {
-                matrix[i][j] = s.charAt(k);
-                i++;
-                k++;
-            }
-            i--;
+        StringBuilder[] sb = new StringBuilder[numRows];
+        for (i = 0; i < numRows; i++) {
+            sb[i] = new StringBuilder("");
+        }
+        i = 0;
+        StringBuilder current = new StringBuilder();
+
+        while (j < s.length()) {
+            sb[i].append(s.charAt(j));
             j++;
-            while (i > 0 && k < s.length()) {
-                i--;
-                matrix[i][j] = s.charAt(k);
-                j++;
-                k++;
+            if(i == numRows - 1){
+                while(j < s.length() && i > 0){
+                    i--;
+                    sb[i].append(s.charAt(j));
+                    j++;
+                }
+                i++;
             }
-            j--;
-            i++;
+            else{
+                i++;
+            }
         }
 
-        StringBuilder sb = new StringBuilder();
-        for(int l = 0; l < numRows; l++){
-            for (int m = 0; m < matrix[l].length; m++) {
-                if(matrix[l][m] == null) continue;
-                sb.append(matrix[l][m]);
-            }
+        for (int k = 0; k < numRows; k++) {
+            current.append(sb[k]);
         }
-        return sb.toString();
+
+        return current.toString();
     }
 }
