@@ -9,21 +9,17 @@ class Solution {
         }
         i = 0;
         StringBuilder current = new StringBuilder();
-
+        int dir = 0;
         while (j < s.length()) {
             sb[i].append(s.charAt(j));
             j++;
             if(i == numRows - 1){
-                while(j < s.length() && i > 0){
-                    i--;
-                    sb[i].append(s.charAt(j));
-                    j++;
-                }
-                i++;
+                dir = -1;
             }
-            else{
-                i++;
+            else if(i == 0){
+                dir = 1;
             }
+            i += dir;
         }
 
         for (int k = 0; k < numRows; k++) {
