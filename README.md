@@ -66,6 +66,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | ------- |
 | [0001-two-sum](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0045-jump-game-ii) |
@@ -188,6 +189,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | ------- |
 | [0012-integer-to-roman](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0071-simplify-path) |
@@ -379,6 +381,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0014-longest-common-prefix) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Database
 |  |
