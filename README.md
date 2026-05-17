@@ -192,6 +192,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | [0013-roman-to-integer](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0125-valid-palindrome) |
@@ -216,6 +217,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | [0015-3sum](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0088-merge-sorted-array) |
@@ -395,4 +397,8 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/1757-recyclable-and-low-fat-products) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
