@@ -79,6 +79,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0169-majority-element) |
@@ -160,6 +161,7 @@ _This README was crafted with ❤️. Learn more about Markdown formatting [here
 |  |
 | ------- |
 | [0078-subsets](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0268-missing-number) |
 | [0861-flipping-an-image](https://github.com/TANMAY2006-UX/DSA-JAVA/tree/master/0861-flipping-an-image) |
 ## Sorting
